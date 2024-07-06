@@ -43,7 +43,7 @@ c:\video\kata\SF.mp4  # 學生影片
 運行程式後，將顯示教練與學生之間的動作對齊路徑與相似度，透過視覺化圖表了解學生與教練動作的差異。
 
 ![image]([https://raw.githubusercontent.com/hahalin/KaraPrjMyPaper/main/images/1-4.png)
-![image]([https://user-images.githubusercontent.com/2748761/166239060-917e486c-9113-4cec-9192-bbc45c94544e.png](https://raw.githubusercontent.com/hahalin/KaraPrjMyPaper/main/images/dtwD.png)
+
 
 ## 本專案文獻
 
