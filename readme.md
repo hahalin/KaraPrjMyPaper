@@ -44,6 +44,8 @@ c:\video\kata\SF.mp4  # 學生影片
 
 ![image](https://raw.githubusercontent.com/hahalin/KaraPrjMyPaper/main/images/1-4.png)
 
+![image](https://raw.githubusercontent.com/hahalin/KaraPrjMyPaper/main/images/dtwD.png)
+
 
 ## 本專案文獻
 
